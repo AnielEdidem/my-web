@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+  background-color: rgb(238, 236, 236);
+}
+hr {
+  width: 609px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+.items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1,
+h2,
+h3 {
+  color:blue ;
+}
